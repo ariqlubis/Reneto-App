@@ -34,5 +34,3 @@ $ node server.js
 5. Buka [http://localhost:3000](http://localhost:3000) di browser
 
 ![image](https://user-images.githubusercontent.com/88980651/196254649-bf1448db-e2b7-4ecb-9900-0a6c8966dfcb.png)
-
-
